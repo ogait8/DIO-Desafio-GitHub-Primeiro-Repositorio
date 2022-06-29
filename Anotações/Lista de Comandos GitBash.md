@@ -5,7 +5,7 @@
 - **cd**  .. - Voltar Diretório
 - **Ctsl L** ou **cls** - Limpar tela 
 - **mkdir** - Cria diretório
-- **cd** - mudar diretório
+- **cd** - Mudar diretório
 - **criar txt - echo Hello > Tiago.txt**      (Será criado um txt com o nome Tiago).
 - **rm**  *"nome do diretório"* - Deleta arquivos na pasta selecionada.
 - **rmdir**  *"nome do diretório"* - Deleta a pasta em si, se houver arquivos nela o /Q vai apagar sem confirmação.
