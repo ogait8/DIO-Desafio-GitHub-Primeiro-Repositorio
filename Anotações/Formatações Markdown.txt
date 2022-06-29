@@ -1,0 +1,16 @@
+Algumas Formatações
+
+Negrito  = **texto**
+
+Itálico =  *texto* ou  _texto_
+
+Criar lista com pontos = Space-Space
+
+
+Fonte = #, ##, ###
+
+ex: # Titulo
+
+será maior que:
+
+ex: ##Subtítulo
