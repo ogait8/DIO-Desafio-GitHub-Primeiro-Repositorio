@@ -16,6 +16,6 @@
 - **git commit -m "comentário do commit atual"** - Cria um Commit daquele momento.
 - **ls** -Listar arquivos.
 - **mv "arquivo" ./ "diretório à enviar"/** - Mover arquivos, o "./" é o de onde vai.
-- **git push origin main ** - Manda tudo pro servidor, no caso Github(Upando).
-- **git pull origin main - Puxa tudo o que tem no servidor(GitHub)(Download)
+- **git push origin main** - Manda tudo pro servidor, no caso Github(Upando).
+- **git pull origin main** - Puxa tudo o que tem no servidor(GitHub)(Download)
 - 
